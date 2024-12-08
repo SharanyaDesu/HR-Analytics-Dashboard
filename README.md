@@ -29,4 +29,4 @@ Tableau for visualization
 
 Data pre-processing and cleaning in Python
 
-Kaggle HR dataset
+HR dataset
